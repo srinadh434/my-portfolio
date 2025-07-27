@@ -1,0 +1,32 @@
+# Node modules and build output
+node_modules
+dist
+
+# Git and editor files
+.git
+.gitignore
+.vscode
+.idea
+
+# Docker config
+Dockerfile
+.dockerignore
+
+# Common noise files
+*.log
+*.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Optional exclusions
+bun.lockb
+*.md
+*.env
+*.lock
+
+components.json
+
+eslint.config.js
+
+
+
